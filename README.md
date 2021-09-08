@@ -5,4 +5,4 @@
 
 - ⚙️ I'm currently working on **everything**.
 - 🌱 I'm currently learning **JavaScript, Java, Python & Solidity**.
-- 📇 Contact me: [@CadleHD](https://twitter.com/CadleHD) 
+- 📇 Contact me: [@CadleHD](https://twitter.com/CadleHD) or [Cadle#7472](https://discord.com/users/371201871626502158)
